@@ -17,4 +17,5 @@ Object-Oriented Programming: Concurrent programming, algorithm optimization, pro
 Contact:
 
 Email: hr328@cornell.edu
+
 LinkedIn: [Hamid Rezaee](https://www.linkedin.com/in/hamid-rezaee-7735371a7/)
