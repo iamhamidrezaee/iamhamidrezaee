@@ -16,11 +16,11 @@ Machine Learning Models: K-means, Naive Bayes, Tree-based modeling, Random Fores
 Object-Oriented Programming: Concurrent programming, algorithm optimization, program correctness (loop invariants)
 
 ## Projects: 
-[Microsoft Stocks Project](https://github.com/iamhamidrezaee/MSP/)
+[Microsoft Stocks Project](https://github.com/iamhamidrezaee/MSP)
 
-[McDiver Project](https://github.com/iamhamidrezaee/McDiver/)
+[McDiver Project](https://github.com/iamhamidrezaee/McDiver)
 
 ## Contact:
 Email: hr328@cornell.edu
 
-LinkedIn: [Hamid Rezaee](https://www.linkedin.com/in/hamid-rezaee-7735371a7/)
+LinkedIn: [Hamid Rezaee](https://www.linkedin.com/in/hamid-rezaee-7735371a7)
