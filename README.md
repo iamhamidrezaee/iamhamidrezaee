@@ -8,7 +8,7 @@ About me
 * Exploring ideas around advanced machine learning techniques and high-frequency applications
 * Actively looking for opportunities for **summer 2024**
 
-Skills:
+## Skills:
 
 Programming Languages and Libraries: Python, Java, C++, scikit-learn, NumPy, Pandas, matplotlib, XGBoost
 
@@ -18,7 +18,7 @@ Machine Learning Models: K-means, Naive Bayes, Tree-based modeling, Random Fores
 
 Object-Oriented Programming: Concurrent programming, algorithm optimization, program correctness (loop invariants)
 
-Contact:
+## Contact:
 
 Email: hr328@cornell.edu
 
