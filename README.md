@@ -2,7 +2,7 @@
 About me
 
 ## Bio
-* Studying computer science as a sophomore at Cornell University '26
+* Studying computer science as a sophomore at [Cornell University](https://www.cornell.edu/) '26
 * Focusing on machine learning engineering and low latency programming
 * Working as a machine learning intern at [Kquika, Inc.](https://www.kquika.com/) for summer 2023
 * Exploring ideas around advanced machine learning techniques and high-frequency applications
