@@ -12,7 +12,9 @@ Skills:
 
 Programming Languages and Libraries: Python, Java, C++, scikit-learn, NumPy, Pandas, matplotlib, XGBoost
 
+
 Machine Learning Models: K-means, Naive Bayes, Tree-based modeling, Random Forest, Gradient Boosting Machines
+
 
 Object-Oriented Programming: Concurrent programming, algorithm optimization, program correctness (loop invariants)
 
