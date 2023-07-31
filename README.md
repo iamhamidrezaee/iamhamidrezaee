@@ -9,6 +9,7 @@ About me
 * Actively looking for opportunities for **summer 2024**
 
 Skills:
+
 Programming Languages and Libraries: Python, Java, C++, scikit-learn, NumPy, Pandas, matplotlib, XGBoost
 
 
