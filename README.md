@@ -9,9 +9,9 @@ About me
 * Actively looking for opportunities for **summer 2024**
 
 ## Skills:
-Programming Languages and Libraries: Python, Java, C++, scikit-learn, NumPy, Pandas, matplotlib, XGBoost
+Programming Languages and Libraries: Python, Java, scikit-learn, NumPy, Pandas, matplotlib, XGBoost
 
-Machine Learning Models: K-means, Naive Bayes, Tree-based modeling, Random Forest, Gradient Boosting Machines
+Machine Learning Models and techniques: K-means, Naive Bayes, Tree-based modeling, Random Forest, Gradient Boosting Machines, advanced feature engineering, Iterative Imputation
 
 Object-Oriented Programming: Concurrent programming, algorithm optimization, program correctness (loop invariants)
 
