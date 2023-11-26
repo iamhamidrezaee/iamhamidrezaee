@@ -2,8 +2,8 @@
 About me
 
 ## Bio
-* Studying computer science as a sophomore at [Cornell University](https://www.cornell.edu/) '26
-* Focusing on machine learning engineering and low latency programming
+* Studying computer science as a sophomore at [Cornell University](https://www.cornell.edu/)
+* Focusing on machine learning engineering and large language models
 * Worked as a machine learning intern at [Kquika, Inc.](https://www.kquika.com/) for summer 2023
 * Working as a machine learning consultant at [LessonLoop](https://lessonloop.org/)
 * Exploring ideas around advanced machine learning/ deep learning
@@ -11,7 +11,7 @@ About me
 ## Skills:
 Programming Languages and Libraries: Python, Java, scikit-learn, NumPy, Pandas, matplotlib, XGBoost, AWS
 
-Machine Learning Models and techniques: K-means, Naive Bayes, Tree-based modeling, Random Forest, Gradient Boosting Machines, advanced feature engineering, Iterative Imputation
+Machine Learning Models and techniques: Naive Bayes, Tree-based modeling, Random Forest, Gradient Boosting Machines, advanced feature engineering, Iterative Imputation
 
 Object-Oriented Programming: Concurrent programming, algorithm optimization, program correctness
 
