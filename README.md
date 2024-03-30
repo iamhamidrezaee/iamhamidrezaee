@@ -7,7 +7,7 @@ About me
 * Worked as a machine learning intern at [Kquika, Inc.](https://www.kquika.com/) for summer 2023
 * Working as a machine learning consultant at [LessonLoop](https://lessonloop.org/)
 * Working as a recommendation engine developer for [Gig-up](https://business.cornell.edu/hub/2024/03/06/trishala-dessais-gig-up-addresses-consumers-gig-workers-needs/)
-* Co-founder and Chief Technology Offier at [Luga AI]([www.luga.app](https://luga.app/))
+* Co-founder and Chief Technology Offier at [Luga AI](https://luga.app/)
 
 ## Skills:
 Programming Languages, Libraries, and platforms: Python, Java, scikit-learn, NumPy, Pandas, matplotlib, AWS
