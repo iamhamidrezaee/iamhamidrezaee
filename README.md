@@ -9,11 +9,6 @@ About me
 * Worked as a recommendation engine developer for [Gig-up](https://business.cornell.edu/hub/2024/03/06/trishala-dessais-gig-up-addresses-consumers-gig-workers-needs/)
 * Working as a co-founder and Chief Technology Offier at [Luga AI](https://luga.app/)
 
-## Projects: 
-[Microsoft Stocks Project](https://github.com/iamhamidrezaee/MSP)
-
-[AWS GenAI Chatbot Deployment Using Cloud9](https://github.com/iamhamidrezaee/AWS_GenAI_Chatbot_Deployment_Using_Cloud9)
-
 ## Contact:
 Email: hr328@cornell.edu
 
