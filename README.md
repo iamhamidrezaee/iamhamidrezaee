@@ -8,6 +8,7 @@ About me
 * Worked as a machine learning intern at [LessonLoop](https://lessonloop.org/)
 * Worked as a recommendation engine developer for [Gig-up](https://business.cornell.edu/hub/2024/03/06/trishala-dessais-gig-up-addresses-consumers-gig-workers-needs/)
 * Working as a co-founder and Chief Technology Offier at [Luga AI](https://luga.app/)
+* Working as a Machine Learning Research Assistant at [Cornell Tech](https://tech.cornell.edu/)
 
 ## Contact:
 Email: hr328@cornell.edu
